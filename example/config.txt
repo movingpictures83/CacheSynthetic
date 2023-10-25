@@ -1,0 +1,2 @@
+Prefix plugins/CacheSynthetic/example
+Plugin CacheSynthetic inputfile none outputfile .
